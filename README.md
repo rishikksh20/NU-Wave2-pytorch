@@ -1,4 +1,4 @@
-# NU-Wave2
+# NU-Wave 2 :
 Unofficial implementation of [NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates](https://arxiv.org/abs/2206.08545).
 
 ## Coming Soon
