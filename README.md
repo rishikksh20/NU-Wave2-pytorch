@@ -3,7 +3,7 @@ Unofficial implementation of [NU-Wave 2: A General Neural Audio Upsampling Model
 
 ## Coming Soon
 
-## [Official Code Repo](https://github.com/mindslab-ai/nuwave2)
+## Official Code is released [here.](https://github.com/mindslab-ai/nuwave2)
 
 ## Citations:
 ```
